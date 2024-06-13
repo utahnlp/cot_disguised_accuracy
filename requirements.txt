@@ -1,0 +1,9 @@
+accelerate
+bitsandbytes
+datasets
+flash-attn
+numpy
+pandas
+torch
+transformers
+tqdm
