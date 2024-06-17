@@ -1,6 +1,6 @@
 # Chain-of-Thought Unfaithfulness as Disguised Accuracy
 
-This repository contains the code to accompany our 2023 MLRC paper: [**Chain-of-Thought Unfaithfulness as Disguised Accuracy**](https://arxiv.org/abs/2402.14897)
+Code for recreating our 2023 MLRC paper: [**Chain-of-Thought Unfaithfulness as Disguised Accuracy**](https://arxiv.org/abs/2402.14897)
 
 ## Getting Started
 
